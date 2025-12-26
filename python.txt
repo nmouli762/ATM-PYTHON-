@@ -1,4 +1,0 @@
-hello
-1.hell,
-2.gooo,
-3.out
